@@ -48,6 +48,9 @@
     <Compile Include="..\Source\Publisher.cs">
       <Link>Publisher.cs</Link>
     </Compile>
+    <Compile Include="..\Source\PubSubEventArgs.cs">
+      <Link>PubSubEventArgs.cs</Link>
+    </Compile>
     <Compile Include="..\Source\Subscriber.cs">
       <Link>Subscriber.cs</Link>
     </Compile>
